@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-IMCAVApplication<IMCAV>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "org.CidnelsonJounin.IMCAV.IMCAVApplication",
+            "projectName": "IMCAV",
+            "args": ""
+        }
+    ]
+}
