@@ -9,6 +9,6 @@ public class Home {
 	@RequestMapping("/")
 	@ResponseBody
 	public String home() {
-		return "IMCME";
+		return "IMCAV";
 	}
 }
